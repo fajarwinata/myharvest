@@ -15,10 +15,11 @@ Sekolah Teknik Elektro & Informatika<br/>
 Program: Magister Teknik Elektro
 Sub-Program: Teknologi Media Digital & game
 </p>
+<hr/>
 # PEDOMAN IMPORT PROJECT
-1. Buat <b>Empty Project</b> di Unity Editor
-2. Pilih Menu Assets
-3. Pilih Import Package
-4. Pilih Customs Package
+1. Buat <b>Empty Project</b> di Unity Editor<br/>
+2. Pilih Menu Assets<br/>
+3. Pilih Import Package<br/>
+4. Pilih Customs Package<br/>
 5. Pilih File <b>MyHarvest.Unitypackage</b>
 
