@@ -3,8 +3,8 @@
 <h5>Farming Game Series</h5>
 
 Tugas Besar Matakuliah Pemrograman GPU
-
-Oleh: Fajar Winata
+<br/>
+Oleh: Fajar Winata<br/>
 NIM: 23222028
 
 <hr/>
