@@ -8,8 +8,8 @@ Oleh: Fajar Winata
 NIM: 23222028
 
 <hr/>
-Sekolah Teknik Elektro & Informatika
-Institut Teknologi Bandung
+Sekolah Teknik Elektro & Informatika<br/>
+<b style="color:blue">Institut Teknologi Bandung</b>
 <hr/>
 <p>
 Program: Magister Teknik Elektro
