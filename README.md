@@ -7,12 +7,14 @@ Tugas Besar Matakuliah Pemrograman GPU
 Oleh: Fajar Winata
 NIM: 23222028
 
-==============================================
+<hr/>
 Sekolah Teknik Elektro & Informatika
+Institut Teknologi Bandung
+<hr/>
+<p>
 Program: Magister Teknik Elektro
 Sub-Program: Teknologi Media Digital & game
-==============================================
-
+</p>
 # PEDOMAN IMPORT PROJECT
 1. Buat <b>Empty Project</b> di Unity Editor
 2. Pilih Menu Assets
